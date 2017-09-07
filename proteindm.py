@@ -1,5 +1,3 @@
-#Author - Utkarsh
-#RNo. - 20161073
 
 import csv
 

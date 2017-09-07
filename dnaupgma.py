@@ -1,5 +1,3 @@
-#Author - Utkarsh
-#RNo. - 20161073
 
 def matagain (l2,a,b,st) :
     ls3 = []

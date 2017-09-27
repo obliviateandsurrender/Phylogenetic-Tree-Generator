@@ -21,4 +21,4 @@ By default the naming convention used are Ndistance and Pdistance for distance m
 
 #### Environment
 
-It reuqires =python3= and is tested to be working on Windows and Linux (debian).
+It reuqires `python3` and is tested to be working on Windows and Linux (debian).
